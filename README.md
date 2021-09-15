@@ -1,2 +1,2 @@
-# dashboard2
+# admin-dashboard
 Created with CodeSandbox
